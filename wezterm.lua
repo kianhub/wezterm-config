@@ -32,12 +32,12 @@ config.window_frame = {
     border_bottom_height = "0.25cell",
     border_bottom_color = "#2e3136",
 }
-config.window_padding = {
-    left = "1.1cell",
-    right = "1.1cell",
-    top = "0.5cell",
-    bottom = "0.5cell"
-}
+--config.window_padding = {
+    --left = "1.1cell",
+    --right = "1.1cell",
+    --top = "0.5cell",
+    --bottom = "0.5cell"
+--}
 
 config.colors = {
     tab_bar = {
