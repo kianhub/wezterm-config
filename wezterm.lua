@@ -13,7 +13,7 @@ config = {
     font_size = 12.5,
     send_composed_key_when_left_alt_is_pressed = true,
     use_dead_keys = true,
-    macos_window_background_blur = 10,
+    macos_window_background_blur = 70,
 }
 
 config.window_frame = {
